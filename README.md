@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Masterboy025
 - 👀 I’m interested in ... Cybersegurity and Dev.
 - 🌱 I’m currently learning ... C++ and Python
-- 💞️ I’m looking to collaborate on ...cybersecurity projects
+- 💞️ I’m looking to collaborate on ...Cybersecurity projects
 - 📫 How to reach me ... alt3m1s@protonmail.com
 
 <!---
